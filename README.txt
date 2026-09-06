@@ -1,65 +1,67 @@
-# 🌐 Rounak Raj — Personal Portfolio
+# HorizonTechX Portfolio
 
-Welcome to my personal portfolio website.
+A responsive and modern personal portfolio website developed as part of the **Horizon TechX Frontend Development Internship**.
 
-🌐 **Live Portfolio:**  
-👉 [Visit My Portfolio Website](https://rounakraj06.github.io/portfolio/)
-
-This portfolio showcases my **skills, projects, education, certifications, and contact information** as a BCA student and aspiring software developer.
+This portfolio website is designed to showcase skills, projects, educational qualifications, certifications, and contact information through a clean and user-friendly interface.
 
 ---
 
-## 🚀 About the Portfolio
+## 🌐 Live Demo
 
-This website is designed to present my technical journey, projects, achievements, and professional profile in a clean and modern interface.
+[View Live Portfolio](https://rounakraj06.github.io/HozizonTechX_MyPortfolio/)
 
-The portfolio focuses on:
+---
 
-- 💻 Web Development
-- 🐍 Python & Django
-- 🌐 Frontend Development
-- 🗄️ Database & SQL
-- 🤖 AI & Computer Vision
-- 📱 Responsive Web Design
-- 📜 Certifications
-- 🚀 Personal Projects
+## 🚀 Project Overview
+
+The portfolio provides a professional platform to present a developer's technical skills, projects, education, certifications, and professional profile.
+
+The project focuses on creating a responsive, attractive, and interactive frontend using **HTML, CSS, and JavaScript**.
 
 ---
 
 ## ✨ Features
 
+- 👤 Personal Profile
+- 🛠️ Technical Skills
+- 🚀 Projects Showcase
+- 🎓 Educational Qualification
+- 📜 Certifications
+- 📞 Contact Information
+- 🔗 Social Media Links
+- 📱 Responsive Design
+- 🎨 Modern Dark Theme
+- ✨ Smooth Hover Effects
+- 🖱️ Interactive Buttons
+- 📐 Mobile-Friendly Layout
+
+---
+
+## 📂 Portfolio Sections
+
 ### 👤 Profile
 
-- Personal introduction
-- Academic background
-- Professional interests
-- Social media profiles
+Provides an introduction and basic professional information.
 
 ### 🛠️ Skills
 
-Showcases my technical skills and technologies that I have learned and worked with.
+Displays technical skills and technologies learned and used.
 
 ### 🚀 Projects
 
-A dedicated section for my projects with project descriptions and links.
+Showcases projects with descriptions and relevant links.
 
 ### 🎓 Qualification
 
-Displays my educational background and academic information.
+Displays educational background and academic information.
 
 ### 📜 Certificates
 
-A separate certificate section where visitors can view my certificates and achievements.
+A dedicated section for displaying certificates and achievements.
 
 ### 📞 Contact
 
-Includes:
-
-- 📧 Email
-- 📱 Phone
-- 💻 GitHub
-- 💼 LinkedIn
-- 📸 Instagram
+Provides contact details and social media profiles.
 
 ---
 
@@ -78,24 +80,23 @@ Includes:
 
 ## 🎨 Design
 
-The portfolio uses a modern dark-themed interface with:
+The website includes:
 
-- Glassmorphism cards
+- Modern dark-themed interface
+- Glassmorphism-style cards
 - Gradient effects
-- Neon-style highlights
 - Smooth hover animations
 - Responsive layouts
-- Circular social media icons
-- Mobile-friendly design
 - Interactive buttons
 - Modern card-based UI
+- Mobile-friendly design
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
-Portfolio/
+HorizonTechX_Portfolio/
 │
 ├── index.html
 ├── about.html
